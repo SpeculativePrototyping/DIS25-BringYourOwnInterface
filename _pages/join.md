@@ -16,8 +16,8 @@ sidebar:
 ---
 
 
-![AI-generated interface concept](../assets/images/generatedInterface.png)
-*DALL·E: AI-generated concept of how we **might** prototype maritime interactions.*
+![AI-generated interface concept](../assets/images/generatedInterface2.png)
+*DALL·E: AI-generated concept of how we **might** prototype maritime interfaces.*
 
 
 ## 👉 [Click here to apply via our form](https://docs.google.com/forms/d/e/1FAIpQLSfBshh-94YoQmFnASepgmsYfz5d4ntSBTZH7LuVcR4dz_7foQ/viewform?usp=header)
