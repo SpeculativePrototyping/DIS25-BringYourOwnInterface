@@ -17,7 +17,7 @@ sidebar:
 
 
 ![AI-generated interface concept](../assets/images/generatedInterface2.png)
-*DALL·E: AI-generated concept of how we **might** prototype maritime interfaces.*
+*Waht DALL·E imagines the workshop will look like.*
 
 
 ## 👉 [Click here to apply via our form](https://docs.google.com/forms/d/e/1FAIpQLSfBshh-94YoQmFnASepgmsYfz5d4ntSBTZH7LuVcR4dz_7foQ/viewform?usp=header)
